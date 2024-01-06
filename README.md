@@ -14,7 +14,7 @@ I am pursuing a master's degree in mechanical engineering at Toronto Metropolita
  
 ### Tech Toolbox 🛠️
 - **Languages:** Python, Matlab, Java, C 
-- **Frameworks & Libraries:** PyTorch, TensorFlow, Google Colab, Jupyter Notebook, VS Code 
+- **Frameworks, Libraries, and Tools:** PyTorch, TensorFlow, Google Colab, Jupyter Notebook, VS Code 
 
 ### Education 🎓
 - **Master's in Mechanical Engineering**, Toronto Metropolitan University 
