@@ -10,7 +10,7 @@
 
 ### About Me 🌐
 
-I am pursuing a master's degree in mechanical engineering at Toronto Metropolitan University, where my research focuses on designing a crowdsourced delivery system using reinforcement learning. In today's society, where online shopping and on-demand services are prevalent, the application of optimization and reinforcement learning is crucial for the efficient functioning and scalability of crowdsourced delivery platforms. 
+I am pursuing a master's degree in mechanical engineering at Toronto Metropolitan University, where my research focuses on designing a crowdsourced delivery system using machine learning. As online shopping and on-demand services are becoming increasingly widespread, machine learning techniques are crucial for the efficient functioning and scalability of crowdsourced delivery platforms. 
  
 ### Tech Toolbox 🛠️
 - **Languages:** Python, Matlab, Java, C 
