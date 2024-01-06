@@ -1,37 +1,26 @@
-# 👋 Hello, I'm Sajal!
+# 👋 Hello, I'm Sahil!
 
-## 🚀 AI/ML Engineer focusing on applied AI
+## 🚀 Master's Student in Mechanical Engineering 
 
-📍 **Singapore**  
-📧 **Email:** [contact@sajalsharma.com](mailto:contact@sajalsharma.com)  
-🔗 **LinkedIn:** [sajals](https://linkedin.com/in/sajals)  
-👨‍💻 **GitHub:** [sajal2692](https://github.com/sajal2692)
+📍 **Mississauga, Canada**  
+📧 **Email:** [sahil.bhatt@torontomu.ca](mailto:sahil.bhatt@torontomu.ca)  
+🔗 **LinkedIn:** [SahilB](https://linkedin.com/in/sahil-bhatt12/)  
+👨‍💻 **GitHub:** [SahilB689](https://github.com/SahilB689)
 
 
 ### About Me 🌐
-Blending 7+ years in AI with a sprinkle of innovation and a dash of creativity, I sculpt data & language into experiences. From the bustling streets of Asia, I've led teams and projects, infusing life into AI and fostering a world where machines and humans could dance in harmony.
 
-
-
-### Professional Highlights 🌟
-- **Lead AI Engineer** - OneByZero, Singapore (2023 - Present)
-- **Senior AI Engineer** - Splore, Singapore (2023)
-- **ML Engineer - NLP** - Unscrambl, India (2017 - 2022)
-
-
+I am pursuing a master's degree in mechanical engineering at Toronto Metropolitan University, where my research focuses on designing a crowdsourced delivery system using reinforcement learning. In today's society, where online shopping and on-demand services are prevalent, the application of optimization and reinforcement learning is crucial for the efficient functioning and scalability of crowdsourced delivery platforms. 
+ 
 ### Tech Toolbox 🛠️
-- **Languages:** Python, SQL, JavaScript, Ruby
-- **Frameworks & Libraries:** PyTorch, Langchain, Vector Databases, Huggingface, SpaCy
-- **Tools:** AWS, GCP, Docker, Git
-- **Specialties:** LLMs, Generative AI, NLP
+- **Languages:** Python, Matlab, Java, C 
+- **Frameworks & Libraries:** PyTorch, TensorFlow, Google Colab, Jupyter Notebook, VS Code 
 
 ### Education 🎓
-- **Masters in IT**, The University of Melbourne
-- **Bachelors in Computer Applications**, Bhartiya Vidyapeeth University
+- **Master's in Mechanical Engineering**, Toronto Metropolitan University 
+- **Bachelor of Mechanical Engineering**, Toronto Metropolitan University 
 
 ### Certifications 📜
-- **Coursera:** Deep Learning, Machine Learning, Mathematics for ML Specializations
-- **Udacity:** NLP, ML, React Nanodegrees
-
-🔗 Let's ideate, innovate, and integrate AI into tomorrow. Reach out for collaborations or simply to chat about the endless possibilities of AI!
+- **Coursera:** Deep Learning, Machine Learning, Algorithms and Data Structures 
+ 
 
